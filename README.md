@@ -1,33 +1,33 @@
-<h1 align="center">Arthur Q</h1>
+# Jiayi (Arthur) Qiu
 
-<p align="center">
-  <code>memory representations · long-term agents · continual learning · reliable NLP</code>
-</p>
+**Honors Carolina undergraduate at UNC–Chapel Hill**
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en">Google Scholar</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:arthurq@ad.unc.edu">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.unc.edu/">UNC-Chapel Hill</a>
-</p>
+I study how agents learn continually from experience and stay reliable over long horizons.
 
----
+[Google Scholar](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en) · [Email](mailto:arthurq@ad.unc.edu)
 
-I study how AI systems represent, retrieve, and use memory over long interactions. I am an undergraduate at the University of North Carolina at Chapel Hill studying Computer Science and Economics, with a minor in Mathematics.
+## Selected research
 
-## Ongoing research
+### [MULTIPASS · Bridge Starvation](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)
 
-- **Long-term memory representations:** how bounded memory systems should preserve source-grounded evidence as interaction histories grow.
-- **Answerability space:** how retrieval, contextual proposition encoding, and closure can construct a sufficient answer witness before Reader use.
-- **Retrieval signals from frozen models:** whether internal state changes can reveal answer-relevant evidence without a learned retrieval head.
+A single retrieval pass can miss the source that connects two clues. MULTIPASS uses a bridge clue to guide a bounded second pass.
 
-## Selected research outputs
+| First retrieval | Bridge clue | Targeted second pass |
+| --- | --- | --- |
+| Find the initial evidence | Identify the missing connection | Recover the supporting source |
 
-- **[Bridge Starvation](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)** — identifies a reproducible failure mode of single-pass multi-hop retrieval and introduces a bounded retrieve-bridge-retrieve repair; presented at the ICML 2026 FAGEN Workshop.
-- **[Graph Tokens before Graph Propagation](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)** — uses proposition-level retrieval keys with deterministic source-chunk payloads; presented at the ICML 2026 GFM Workshop.
-- **[SIFT](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)** — uses LLM-imagined scene differences to reweight features for low-resource tabular learning; oral presentation at the IEEE ICDM 2025 VISTA Workshop.
+ICML 2026 Workshop on Failure Modes of Agentic AI
 
-## Teaching
+- **[Atom-Keyed Retrieval](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)** ranks individual propositions and returns their source context. ICML 2026 Workshop on Graph Foundation Models.
+- **[SIFT](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)** uses language models to estimate feature weights for low-resource tabular learning. ICDM 2025 VISTA Workshop, oral.
 
-Six semesters as an Undergraduate Learning Assistant in econometrics, time series, and calculus, including review sessions and office hours.
+<details>
+<summary>Research interests and teaching</summary>
+
+- Continual learning and long-term memory for agents.
+- Retrieval and evidence use in long-context reasoning.
+- Signals for answer-relevant evidence in frozen models.
+
+I study Computer Science and Economics with a minor in Mathematics. I’ve spent six semesters as an undergraduate learning assistant in econometrics, time series, and calculus.
+
+</details>
