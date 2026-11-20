@@ -1,27 +1,30 @@
-# Jiayi (Arthur) Qiu
+# [![Jiayi (Arthur) Qiu. A diagram links experience, memory, and evidence.](research-header.svg)](https://arthurqqqq.github.io/)
 
 **Honors Carolina undergraduate · UNC–Chapel Hill**
 
 I study how agents learn continually from experience and stay reliable over long horizons.
 
-**[Personal website ↗](https://arthurqqqq.github.io/)** · **[Google Scholar ↗](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · **[Public repositories ↗](https://github.com/ArthurQQQQ?tab=repositories)** · [Email](mailto:arthurq@ad.unc.edu)
+**[Personal website](https://arthurqqqq.github.io/)** · **[Google Scholar](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · [All repositories](https://github.com/ArthurQQQQ?tab=repositories) · [Email](mailto:arthurq@ad.unc.edu)
 
-## Selected research
+## Research code
 
-### [MULTIPASS · Bridge Starvation](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)
+- **[MULTIPASS](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)** follows a bridge clue with a bounded second retrieval pass to recover missing evidence. *ICML 2026 Workshop on Failure Modes of Agentic AI.*
+- **[Atom-Keyed Chunk Retrieval](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)** ranks atomic propositions and returns their original passages for long-document question answering. *ICML 2026 Workshop on Graph Foundation Models.*
+- **[SIFT reproduction](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)** reproduces the feature-weighting experiment for low-resource tabular learning. *Paper: ICDM 2025 VISTA Workshop, oral.*
 
-A single retrieval pass can miss the source connecting two clues. MULTIPASS uses a bridge clue to guide a bounded second pass.
+## Research workflows
 
-**Initial evidence → Bridge clue → Targeted retrieval**
+- **[Skill Editor](https://github.com/ArthurQQQQ/skill-engine)** is a local workspace for finding, comparing, and maintaining agent skills.
+- **[Paper Structure Review](https://github.com/ArthurQQQQ/advisor-ready-paper-structure)** helps scope a research idea or review the argument and structure of a draft in an offline workspace.
+- **[Paper → Presentation](https://github.com/ArthurQQQQ/paper-presentation-skill)** turns a paper's mechanism, worked example, and experimental evidence into a presentation.
 
-*ICML 2026 Workshop on Failure Modes of Agentic AI*
+## Personal website
 
-- **[Atom-Keyed Retrieval](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)** — Ranks individual propositions and returns their source passages for long-document QA. *ICML 2026 Workshop on Graph Foundation Models.*
-- **[SIFT](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)** — Uses language models to estimate feature weights for low-resource tabular learning. *ICDM 2025 VISTA Workshop, oral.*
+My [research homepage](https://arthurqqqq.github.io/) collects papers, interactive figures, and project links. [Website source](https://github.com/ArthurQQQQ/arthurqqqq.github.io)
 
-## Tools
+## Other builds
 
-**[Skill Editor](https://github.com/ArthurQQQQ/skill-engine)** is a local workspace for finding, comparing, and maintaining agent skills.
+- **[YueLao](https://github.com/ArthurQQQQ/yuelao-chatgpt-plugin)** is a Chinese-language conversation prototype with a case library linked to source clips.
 
 <details>
 <summary>Research interests and teaching</summary>

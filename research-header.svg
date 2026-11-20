@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title description">
+  <title id="title">Jiayi (Arthur) Qiu</title>
+  <desc id="description">A dark research profile banner. An arrow connects experience to memory, then to evidence.</desc>
+  <defs>
+    <pattern id="dot-grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#35506c"/>
+    </pattern>
+    <marker id="blue-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+      <path d="M1 1L6 3.5L1 6" fill="none" stroke="#85baf5" stroke-width="1.2"/>
+    </marker>
+    <marker id="mint-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+      <path d="M1 1L6 3.5L1 6" fill="none" stroke="#79dcc9" stroke-width="1.2"/>
+    </marker>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="219" rx="13" fill="#0c1727" stroke="#30455f"/>
+  <rect x="541" y="31" width="424" height="158" rx="8" fill="#101e30" stroke="#2d425b"/>
+  <rect x="553" y="43" width="400" height="134" fill="url(#dot-grid)" opacity=".6"/>
+
+  <path d="M45 67H81" stroke="#85baf5" stroke-width="2"/>
+  <text x="43" y="124" fill="#f0f5fb" font-family="Georgia, 'Times New Roman', serif" font-size="47" letter-spacing="-1">Jiayi (Arthur) Qiu</text>
+  <text x="45" y="160" fill="#b3c6db" font-family="system-ui, sans-serif" font-size="16">Memory and evidence in language agents</text>
+
+  <path d="M668 104H702" fill="none" stroke="#85baf5" stroke-width="1.5" marker-end="url(#blue-arrow)"/>
+  <path d="M809 104H845" fill="none" stroke="#79dcc9" stroke-width="1.5" marker-end="url(#mint-arrow)"/>
+
+  <g stroke="#526e91" stroke-width="1" fill="#152944">
+    <rect x="570" y="79" width="98" height="50" rx="6"/>
+    <rect x="711" y="79" width="98" height="50" rx="6"/>
+  </g>
+  <rect x="854" y="79" width="86" height="50" rx="6" fill="#133132" stroke="#4b8a81"/>
+
+  <g fill="none" stroke="#85baf5" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="611" y="88" width="16" height="13" rx="2"/>
+    <path d="M615 92H623M615 96H621"/>
+    <ellipse cx="760" cy="91" rx="8" ry="2.75"/>
+    <path d="M752 91v7c0 1.5 3.6 2.75 8 2.75s8-1.25 8-2.75v-7m-16 3.5c0 1.5 3.6 2.75 8 2.75s8-1.25 8-2.75"/>
+  </g>
+  <g fill="none" stroke="#79dcc9" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="897" cy="94.5" r="7"/>
+    <path d="m893.6 94.5 2.3 2.3 4.5-4.5"/>
+  </g>
+
+  <g font-family="system-ui, sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">
+    <text x="619" y="119" fill="#d7e7f9">Experience</text>
+    <text x="760" y="119" fill="#d7e7f9">Memory</text>
+    <text x="897" y="119" fill="#b8efdf">Evidence</text>
+  </g>
+</svg>
