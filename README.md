@@ -12,7 +12,7 @@
 
 I study how agents learn continually from experience and stay reliable over long horizons.
 
-I work with [Shashank Srivastava](https://www.ssriva.com/) ([Lab](https://l3.cs.unc.edu/ "Learning from Language Lab (L³)")) and [Snigdha Chaturvedi](https://cs.unc.edu/person/snigdha-chaturvedi/) ([Lab](https://nlp.cs.unc.edu/#lab-Chaturvedi-Lab "Chaturvedi Lab")). I’m writing my honors thesis in economics with [Peter Hansen](https://econ.unc.edu/people/hansen-peter/), the Henry A. Latané Distinguished Professor in Economics.
+I work with [Shashank Srivastava](https://www.ssriva.com/) ([Lab](https://l3.cs.unc.edu/ "Learning from Language Lab (L³)")) and [Snigdha Chaturvedi](https://cs.unc.edu/person/snigdha-chaturvedi/) ([Lab](https://nlp.cs.unc.edu/#lab-Chaturvedi-Lab "Chaturvedi Lab")). I’m writing my honors thesis in economics with [Peter R. Hansen](https://econ.unc.edu/people/hansen-peter/).
 
 **[Personal website](https://arthurqqqq.github.io/)** · **[Google Scholar](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · [Interactive figures](https://arthurqqqq.github.io/#research) · [Repositories](https://github.com/ArthurQQQQ?tab=repositories) · [Email](mailto:arthurq@ad.unc.edu)
 
