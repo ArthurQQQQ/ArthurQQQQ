@@ -12,6 +12,8 @@
 
 I study how agents learn continually from experience and stay reliable over long horizons.
 
+I work with the [L³ Lab](https://l3.cs.unc.edu/) and [Snigdha Chaturvedi’s research group](https://sites.google.com/site/snigdhac/). I’m writing my honors thesis with [Peter Reinhard Hansen](https://econ.unc.edu/people/hansen-peter/).
+
 **[Personal website](https://arthurqqqq.github.io/)** · **[Google Scholar](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · [Interactive figures](https://arthurqqqq.github.io/#research) · [Repositories](https://github.com/ArthurQQQQ?tab=repositories) · [Email](mailto:arthurq@ad.unc.edu)
 
 ## Research code
