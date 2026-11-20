@@ -4,7 +4,7 @@
 
 I study how agents learn continually from experience and stay reliable over long horizons.
 
-**[Google Scholar ↗](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · **[Public repositories ↗](https://github.com/ArthurQQQQ?tab=repositories)** · [Email](mailto:arthurq@ad.unc.edu)
+**[Personal website ↗](https://arthurqqqq.github.io/)** · **[Google Scholar ↗](https://scholar.google.com/citations?user=WC9dYREAAAAJ&hl=en)** · **[Public repositories ↗](https://github.com/ArthurQQQQ?tab=repositories)** · [Email](mailto:arthurq@ad.unc.edu)
 
 ## Selected research
 
