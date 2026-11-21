@@ -18,29 +18,31 @@ I work with [Shashank Srivastava](https://www.ssriva.com/) ([Lab](https://l3.cs.
 
 ## Research code
 
-- **[MULTIPASS](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)**  
-  A bounded second retrieval pass follows a bridge clue to recover missing evidence. *ICML 2026 Workshop on Failure Modes of Agentic AI.*
-- **[Atom-Keyed Chunk Retrieval](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)**  
-  Ranks atomic propositions and retrieves their original passages for long-document QA. *ICML 2026 Workshop on Graph Foundation Models.*
-- **[SIFT reproduction](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)**  
-  Reproduces the feature-weighting experiment for low-resource tabular learning. *ICDM 2025 VISTA Workshop paper, oral presentation.*
+- **[MULTIPASS](https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW)** · *[ICML 2026 · Failure Modes in Agentic AI Workshop](https://icml.cc/virtual/2026/77991)*  
+  A bounded second retrieval pass follows a bridge clue to recover missing evidence.
+- **[Atom-Keyed Chunk Retrieval](https://github.com/ArthurQQQQ/atom-keyed-chunk-retrieval-qa-ICMLW)** · *[ICML 2026 · Graph Foundation Models Workshop](https://icml.cc/virtual/2026/67543)*  
+  Ranks atomic propositions and retrieves their original passages for long-document QA.
+- **[SIFT reproduction](https://github.com/ArthurQQQQ/SIFT-LLM-feature-reweighting-tabular-ICDMW)** · *[ICDM 2025 · VISTA Workshop (original paper)](https://doi.org/10.1109/ICDMW69685.2025.00298)*  
+  Reproduces the feature-weighting experiment for low-resource tabular learning.
 
 ## Research workflows
 
-- **[Skill Editor](https://github.com/ArthurQQQQ/skill-engine)**  
+- **[Skill Editor](https://github.com/ArthurQQQQ/skill-engine)** · *GitHub*  
   A local workspace for finding, comparing, and maintaining agent skills.
-- **[Paper Structure Review](https://github.com/ArthurQQQQ/advisor-ready-paper-structure)**  
+- **[Paper Structure Review](https://github.com/ArthurQQQQ/advisor-ready-paper-structure)** · *GitHub*  
   Helps scope a research idea or review the argument and structure of a draft offline.
-- **[Paper → Presentation](https://github.com/ArthurQQQQ/paper-presentation-skill)**  
+- **[Paper → Presentation](https://github.com/ArthurQQQQ/paper-presentation-skill)** · *GitHub*  
   Builds a talk around a paper's mechanism, worked example, and experimental evidence.
 
 ## Personal website
 
-My [research homepage](https://arthurqqqq.github.io/) collects papers, interactive figures, and project links. [Website source](https://github.com/ArthurQQQQ/arthurqqqq.github.io)
+- **[Research homepage](https://arthurqqqq.github.io/)** · *GitHub Pages*  
+  Papers, interactive figures, and project links. [Website source](https://github.com/ArthurQQQQ/arthurqqqq.github.io)
 
 ## Other builds
 
-- **[YueLao](https://github.com/ArthurQQQQ/yuelao-chatgpt-plugin)** is a Chinese-language conversation prototype with a case library linked to source clips.
+- **[YueLao](https://github.com/ArthurQQQQ/yuelao-chatgpt-plugin)** · *GitHub*  
+  A Chinese-language conversation prototype with a case library linked to source clips.
 
 <details>
 <summary>Research interests and teaching</summary>
